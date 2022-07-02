@@ -1,5 +1,5 @@
 # PCA-Reduction
-This project takes a dataset file and produces a screeplot for analyzing the PC components as well as the dataset projected on the first two PC's.
+This project takes a dataset file and produces a screeplot for analyzing the PC components as well as the dataset projected on the first two PC components.
 
 
 Some file/folder descriptions: 
