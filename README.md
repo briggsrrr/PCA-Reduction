@@ -23,11 +23,13 @@ Notes:
 > Make sure to have sklearn, matplotlib, and numpy libraries installed 
 
 Pictures:
+Breastcancer context: 
 ![image1](output_images/Breastcancer-Projection.png?raw=true "pictransferINIT")
 
 ![image2](output_images/Breastcancer-Scree.png?raw=true "pictransferINIT")
 
-![image3](output_images/nutrition-CLI.png?raw=true "pictransferINIT")
+Nutrition context: 
+![image3](output_images/Nutrition-CLI.png?raw=true "pictransferINIT")
 
 ![image4](output_images/Nutrition-Projection.png?raw=true "pictransferINIT")
 
