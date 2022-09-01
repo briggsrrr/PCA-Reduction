@@ -22,7 +22,8 @@ Notes:
 > Currently designed to only take input data files configured in a certain way. To see configuration reference any of the .csv files in this project.  
 > Make sure to have sklearn, matplotlib, and numpy libraries installed 
 
-Pictures:
+Pictures: \\
+
 Breastcancer context: 
 ![image1](output_images/Breastcancer-Projection.png?raw=true "pictransferINIT")
 
