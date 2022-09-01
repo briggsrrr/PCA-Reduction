@@ -55,9 +55,7 @@ def getDataMatrix():
         iris = datasets.load_iris()
         D = iris.data     
         y = iris.target  
-
-
-
+        
     elif userInput.lower() == "breastcancer":
         breast_cancer = datasets.load_breast_cancer()
         D = breast_cancer.data     
@@ -134,7 +132,6 @@ def main():
     C,Z = getCovarianceMatrix(D,y)
     createScreePlot(C)
     performPCA(C,Z,y)
-
 
 
 main() 
